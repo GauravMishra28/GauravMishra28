@@ -30,5 +30,5 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravMishra28&" alt="GauravMishra" /></p>
 
-<a href="http://www.github.com/GauravMishra28"><img src="https://activity-graph.herokuapp.com/graph?username=GauravMishra&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/GauravMishra28"><img src="https://activity-graph.herokuapp.com/graph?username=GauravMishra28&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
