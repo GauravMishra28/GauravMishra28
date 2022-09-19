@@ -23,7 +23,12 @@ You can click the Preview link to take a look at your changes.
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-
-
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravMishra28&show_icons=true&locale=en&layout=compact" alt="GauravMishra"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravMishra28&show_icons=true&locale=en" alt="Gaurav"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravMishra28&" alt="GauravMishra" /></p>
+
+<a href="http://www.github.com/GauravMishra28"><img src="https://activity-graph.herokuapp.com/graph?username=GauravMishra&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
