@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning TypeScript.
 - 📫 How to reach me on gauravmemishra@gmail.com.
 - Visit My Portfolio- https://gauravmishra28.github.io/
+- Group Project [Dot&Key Clone](https://github.com/Hashal890/dot-key-clone)
+- Individual Project [KickStarter Clone](https://github.com/GauravMishra28/dead-test-3122)
 
 <!---
 GauravMishra28/GauravMishra28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
