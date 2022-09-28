@@ -43,6 +43,7 @@ You can click the Preview link to take a look at your changes.
 Kickstarter is a public benefit corporation that maintains a global crowdfunding platform focused on creativity. 
 
 `Features`
+
 -Different Routes
 -Signup and Login
 -Responsive
@@ -54,6 +55,7 @@ Kickstarter is a public benefit corporation that maintains a global crowdfunding
 Dot & Key is an Indian cosmetics brand that offers premium skin care products, including serums, face masks, toners, and cleansers
 
 `Features`
+
 -Sort & filter by many options on product page.
 -Get a smooth experience in payment, login & signup process.
 -Manual and automatic carousels.
@@ -61,6 +63,7 @@ Dot & Key is an Indian cosmetics brand that offers premium skin care products, i
 -Animations on carousels.
 
 `Area of responsibility`
+
 - HomePage
 - All types of Carousel
 
