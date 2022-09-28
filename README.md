@@ -1,6 +1,6 @@
 - 👋 Hi, I’m GauravMishra
 - Full-Stack Web Developer with the ability to adapt and collaborate in rapidly changing environments. Hands-on experience with over 1000+ hours of Bootcamp structure learning JavaScript, ReactJs, NodeJs, MongoDB,ExpressJS,HTML5,CSS3 and Chakra UI.
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently working on a project with four other members(https://github.com/JYOTIPM1999/expert-hand-9078).
 - 📫 How to reach me on gauravmemishra@gmail.com.
 - Visit My Portfolio- https://gauravmishra28.github.io/
 - Group Project [Dot&Key Clone](https://github.com/Hashal890/dot-key-clone)
