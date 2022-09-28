@@ -38,7 +38,8 @@ You can click the Preview link to take a look at your changes.
 -------------------------------------------
 
 ##Projects
-1. ## KickStarter Clone(Individual) [Live](https://kickstarterclonebygaurav.netlify.app/) [Github] (https://github.com/GauravMishra28/dead-test-3122)
+1. ## KickStarter Clone(Individual) [Live](https://kickstarterclonebygaurav.netlify.app/) 
+ [Github](https://github.com/GauravMishra28/dead-test-3122)
 
 Kickstarter is a public benefit corporation that maintains a global crowdfunding platform focused on creativity. 
 
