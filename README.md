@@ -44,11 +44,11 @@ Kickstarter is a public benefit corporation that maintains a global crowdfunding
 
 `Features`
 
--Different Routes
--Signup and Login
--Responsive
--Night Mode
--Product Page
+- Different Routes
+- Signup and Login
+- Responsive
+- Night Mode
+- Product Page
 
 2. ## Dot&Key Clone(Group) [Live](https://dotandkeyclone.netlify.app/) [Github](https://github.com/Hashal890/dot-key-clone)
 
@@ -56,11 +56,11 @@ Dot & Key is an Indian cosmetics brand that offers premium skin care products, i
 
 `Features`
 
--Sort & filter by many options on product page.
--Get a smooth experience in payment, login & signup process.
--Manual and automatic carousels.
--Offcanvas on cart page.
--Animations on carousels.
+- Sort & filter by many options on product page.
+- Get a smooth experience in payment, login & signup process.
+- Manual and automatic carousels.
+- Offcanvas on cart page.
+- Animations on carousels.
 
 `Area of responsibility`
 
