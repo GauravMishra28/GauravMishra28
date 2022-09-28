@@ -35,4 +35,32 @@ You can click the Preview link to take a look at your changes.
 
 <a href="http://www.github.com/GauravMishra28"><img alt="Gaurav Mishra" src="https://activity-graph.herokuapp.com/graph?username=GauravMishra28&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+-------------------------------------------
+
+##Projects
+1. ## KickStarter Clone(Individual) [Live](https://kickstarterclonebygaurav.netlify.app/) [Github] (https://github.com/GauravMishra28/dead-test-3122)
+
+Kickstarter is a public benefit corporation that maintains a global crowdfunding platform focused on creativity. 
+
+`Features`
+-Different Routes
+-Signup and Login
+-Responsive
+-Night Mode
+-Product Page
+
+2. ## Dot&Key Clone(Group) [Live](https://dotandkeyclone.netlify.app/) [Github](https://github.com/Hashal890/dot-key-clone)
+
+Dot & Key is an Indian cosmetics brand that offers premium skin care products, including serums, face masks, toners, and cleansers
+
+`Features`
+-Sort & filter by many options on product page.
+-Get a smooth experience in payment, login & signup process.
+-Manual and automatic carousels.
+-Offcanvas on cart page.
+-Animations on carousels.
+
+`Area of responsibility`
+- HomePage
+- All types of Carousel
 
