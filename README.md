@@ -1,8 +1,8 @@
 - 👋 Hi, I’m GauravMishra
 - Full-Stack Web Developer with the ability to adapt and collaborate in rapidly changing environments. Hands-on experience with over 1000+ hours of Bootcamp structure learning JavaScript, ReactJs, NodeJs, MongoDB,ExpressJS,HTML5,CSS3 and Chakra UI.
-- 🌱 I’m currently working on a project with four other members(https://github.com/JYOTIPM1999/expert-hand-9078).
-- 📫 How to reach me on gauravmemishra@gmail.com.
-- Visit My LinkedIn- https://www.linkedin.com/in/gaurav-mishra-435814a8/
+- 🌱 I’m currently working on a Blog Website.
+- 📫 Reach me on gauravmemishra@gmail.com.
+- Visit My LinkedIn Profile- https://www.linkedin.com/in/gaurav-mishra-435814a8/
 - Group Project [Dot&Key Clone](https://github.com/Hashal890/dot-key-clone)
 - Individual Project [KickStarter Clone](https://github.com/GauravMishra28/dead-test-3122)
 
