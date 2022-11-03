@@ -10,7 +10,7 @@
 GauravMishra28/GauravMishra28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+![](https://komarev.com/ghpvc/?username=GauravMishra28&color=blue)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
+<h3 align="left">My Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravMishra28&show_icons=true&locale=en&layout=compact" alt="GauravMishra"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravMishra28&show_icons=true&locale=en" alt="Gaurav"/></p>
