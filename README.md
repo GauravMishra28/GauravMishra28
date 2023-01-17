@@ -1,6 +1,5 @@
 - 👋 Hi, I’m GauravMishra
 - Full-Stack Web Developer with the ability to adapt and collaborate in rapidly changing environments. Hands-on experience with over 1000+ hours of Bootcamp structure learning JavaScript, ReactJs, NodeJs, MongoDB,ExpressJS,HTML5,CSS3 and Chakra UI.
-- 🌱 I’m currently working on a Blog Website.
 - 📫 Reach me on gauravmemishra@gmail.com.
 - Visit My LinkedIn Profile- https://www.linkedin.com/in/gaurav-mishra-435814a8/
 - Group Project [Dot&Key Clone](https://github.com/Hashal890/dot-key-clone)
@@ -33,8 +32,6 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravMishra28&show_icons=true&locale=en" alt="Gaurav"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravMishra28&" alt="GauravMishra" /></p>
-
-<a href="http://www.github.com/GauravMishra28"><img alt="Gaurav Mishra" src="https://activity-graph.herokuapp.com/graph?username=GauravMishra28&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 -------------------------------------------
 
